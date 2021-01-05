@@ -29,7 +29,6 @@ const Test = () => {
                 }])
             }}> click </button>
         </div>
-
     )
 }
 export default Test
